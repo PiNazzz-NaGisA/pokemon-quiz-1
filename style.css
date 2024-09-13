@@ -1,0 +1,33 @@
+body{
+  background-color: #95c9dd;
+  color:#555555;
+  font-size: 20px;
+  padding: 40px;
+  text-align:center;
+}
+
+.white-box{
+  background:#FFFFFF;
+  border-radius: 10px;
+  display:inline-block;
+  width:50%
+}
+
+div{
+  margin:20px;
+}
+
+button{
+  background-color:#FFFFFF;
+  border: solid 2px #6380df;
+  color:#555555;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 16px;
+  width: 100%;
+}
+
+button:hover{
+ background: #6380df;
+ color:#FFFFFF;
+}
